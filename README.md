@@ -80,3 +80,5 @@ The interpreter returns a final object containing the `textStream` (the good stu
 This project is a statement. It's about taking back control. The modern web is a bloated, slow, privacy-invading mess. `hld-quiver` is the elegant backdoor. It slips past all the corporate tracking scripts, the pop-up ads, and the megabytes of JavaScript framework bullshit. It gets right to the information. It's fast, it's private, and it's yours to command.
 
 Now go get pitted!
+
+### Heavylildude + Magnus
