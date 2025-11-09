@@ -81,4 +81,4 @@ This project is a statement. It's about taking back control. The modern web is a
 
 Now go get pitted!
 
-### Heavylildude + Magnus
+### 🫰 Heavylildude + Magnus
